@@ -1,0 +1,64 @@
+/* Styling the whole body using id. */
+#loginpage-body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/*styling the main heading using id.*/
+#main-heading {
+    text-align: center;
+    color: #2c5f2d;
+}
+
+/* Styling the form container using class  */
+.form-container {
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* styling  the table inside the form container with respect to form form-container */
+.form-container table {
+    width: 100%; /*adjusting table inside form container.*/
+    text-align: left; /*left align the table contents.*/
+}
+
+/* styling the input fields using class */
+.input-field {
+    width: 90%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+/* styling the submit button using the id. */
+#submit-button {
+    background-color: #2c5f2d;
+    color: #fff;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* styling the reset button using the id. */
+#reset-button {
+    background-color: #f44336;
+    color: #fff;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px; /*making round corners.*/
+    cursor: pointer;
+}
+
+/* styling both buttons for hover effect. So, using the class instead of id. */
+.button:hover {
+    opacity: 0.8; /*making slightly transparent*/
+}
+
