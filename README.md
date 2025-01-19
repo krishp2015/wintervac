@@ -61,4 +61,7 @@ I have learned some basic commands of github i.e.
 ***How to use***
 1. Cloning the repo.
     - ```git clone url``` - Clone the URL from the main branch.
+2. Download the zip file     
     - ```.zip File``` - Download the zip file, unzip and see my website.
+
+- Start the page from login_page.html
