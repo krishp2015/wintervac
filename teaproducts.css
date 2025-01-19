@@ -1,0 +1,64 @@
+#jt {
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 200px;
+    width: 200px;
+
+}
+
+#ht {
+    margin-top: 10px;
+    margin-left: 100px;
+    height: 200px;
+    width: 200px;
+
+}
+#rt {
+    margin-top: 10px;
+    margin-left: 120px;
+    height: 200px;
+    width: 200px;
+
+}
+#tt {
+    margin-top: 10px;
+    margin-left: 160px;
+    height: 200px;
+    width: 200px;
+
+}
+
+/* designing the buttons using class */
+.page-nav {
+    display: inline-block; /*have questions with this, suggested by sandil sir.*/
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #119b5b;
+    border-radius: 4px;
+    border: none;
+    margin: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+/* creating the button container using div for alignment  */
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh; /* Full viewport height */
+}
+
+/* hovering the previous buttons  */
+#prev-btn:hover {
+    opacity: 0.8;
+    background-color:rgb(168, 102, 211);
+
+}
+
+/* hovering the next button  */
+#next-btn:hover {
+    opacity: 0.8;
+    background-color: rgb(114, 183, 196);
+}
