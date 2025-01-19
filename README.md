@@ -6,19 +6,15 @@ This project is a simple e-commerce website where HTML and External CSS has been
 **About Organic Tea Hub**
 ============
 
-About your business write here
+Organic Tea hub was formed in 2023. Its located at Thamel, Amrit marg. Its also has its own gared in ilam, Sikkim.
 
 Pages in this website
 ============
-- ```login_page.html``` : write about this page
-- ```homepage.html``` :
-- ```product_info.html``` :
-- ```loginpage_style.css``` : This page styles the entire ```login_page.html``` file.
-- ```contact_us.html``` : 
-
-Features 
-=========
-
+- ```login_page.html```
+- ```homepage.html```
+- ```product_info.html```
+- ```loginpage_style.css``` 
+- ```contact_us.html```
 
 
 ***Use of AI/chatgpt***
@@ -34,8 +30,7 @@ Features
     - Hyperlinks
     - Input tags
 
-- Github
-=
+- Github: Code Sharing.
 I have learned some basic commands of github i.e. 
     - ```git init``` : Initiates a git project. 
     - ```git branch``` : Checks the current branch in git repo.
@@ -49,4 +44,21 @@ I have learned some basic commands of github i.e.
 - External CSS
 
 - CUI : Use of cmd prompt
-   - 
+    - ```cd```
+    - ```mkdir``` 
+    - ```echo```
+
+***Future Improvments***
+- ```teaproducts.html``` will be worked on with proper images and proper description.
+- ```otherproducts.html``` will be worked on with proper images and proper description.
+- ```contactus.html``` page will be updated.
+- Intregation of xamp database.
+
+***Limitation of this project***
+- This project is only the frontend with no backend(functionality) implemented.
+- No database system is used.
+
+***How to use***
+1. Cloning the repo.
+    - ```git clone url``` - Clone the URL from the main branch.
+    - ```.zip File``` - Download the zip file, unzip and see my website.
